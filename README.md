@@ -4,25 +4,33 @@
 
 Una invitación digital para celebrar los quince años de Salomé. La experiencia empieza como una tarjeta que se abre: al tocar **Entrar**, suena la música y aparece el retrato de la festejada junto al mensaje de su familia. Más abajo, los invitados pueden recorrer el álbum, consultar los detalles de la recepción y confirmar su asistencia.
 
-<a href="docs/bienvenida.webp"><img src="docs/bienvenida.webp" alt="Bienvenida y retrato de Salomé" width="600"></a>
+<p align="center">
+  <a href="docs/bienvenida.webp"><img src="docs/bienvenida.webp" alt="Bienvenida y retrato de Salomé" width="600"></a>
+</p>
 
 ## Recepción y cuenta regresiva
 
 La invitación reúne la fecha, la ubicación y el acceso a Google Maps. El contador muestra días, horas, minutos y segundos. En la captura aparece en cero porque la recepción ya pasó.
 
-<a href="docs/recepcion.webp"><img src="docs/recepcion.webp" alt="Recepción y cuenta regresiva" width="600"></a>
+<p align="center">
+  <a href="docs/recepcion.webp"><img src="docs/recepcion.webp" alt="Recepción y cuenta regresiva" width="600"></a>
+</p>
 
 ## Recuerdos y vestuario
 
 El álbum reúne nueve fotografías en un carrusel que también se puede recorrer con el dedo. Las ilustraciones presentan el código de vestuario.
 
-<a href="docs/recuerdos.webp"><img src="docs/recuerdos.webp" alt="Galería de recuerdos y código de vestuario" width="600"></a>
+<p align="center">
+  <a href="docs/recuerdos.webp"><img src="docs/recuerdos.webp" alt="Galería de recuerdos y código de vestuario" width="600"></a>
+</p>
 
 ## Confirmación por WhatsApp
 
 Después de la lluvia de sobres, el botón **Confirmar asistencia** abre WhatsApp con un mensaje preparado para la familia.
 
-<a href="docs/asistencia.webp"><img src="docs/asistencia.webp" alt="Lluvia de sobres y botón Confirmar asistencia por WhatsApp" width="600"></a>
+<p align="center">
+  <a href="docs/asistencia.webp"><img src="docs/asistencia.webp" alt="Lluvia de sobres y botón Confirmar asistencia por WhatsApp" width="600"></a>
+</p>
 
 ## Diseño e implementación
 
