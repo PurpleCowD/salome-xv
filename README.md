@@ -1,7 +1,5 @@
 # Tarjeta de invitación a los 15 de Salomé
 
-[Ir al sitio](https://purplecowd.github.io/salome-XV/)
-
 Una invitación digital para celebrar los quince años de Salomé. La experiencia empieza como una tarjeta que se abre: al tocar **Entrar**, suena la música y aparece el retrato de la festejada junto al mensaje de su familia. Más abajo, los invitados pueden recorrer el álbum, consultar los detalles de la recepción y confirmar su asistencia.
 
 <p align="center">
