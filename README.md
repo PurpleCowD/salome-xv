@@ -1,4 +1,4 @@
-# Los quince de Salomé
+# Tarjeta de invitación a los 15 de Salomé
 
 [Ir al sitio](https://purplecowd.github.io/salome-XV/)
 
